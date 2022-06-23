@@ -9,11 +9,13 @@ header {
   display: flex;
   align-items: center;
   justify-content:space-between;  
-  background-color: red;
+  background-color: #8789C0;
   border-style: solid;
-  border-color: black;
+  border-color: #08090A;
   width: 100%;
   font-size: 15px;
+  margin: 0px;
+  padding: 0px;
 }
 
 
@@ -21,7 +23,10 @@ header {
 img {
   width: 50px;
   height: 50px;
-  padding: 10px;
+  padding: 0px;
+  margin: 5px;
+  border-style: solid;
+  border-color: #08090A;
   
 }
 
