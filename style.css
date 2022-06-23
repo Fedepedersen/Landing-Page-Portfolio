@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content:space-between;  
+  background-color: red;
+  border-style: solid;
+  border-color: black;
+  width: 100%;
+  font-size: 15px;
+}
+
+
+
+img {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  
+}
+
+
+nav {
+  padding-right: 30px;
+}
+
+nav a {
+  padding-right: 10px;
+}
